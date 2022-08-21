@@ -28,7 +28,7 @@ class _Test1State extends State<Test1> {
                 },
               ),
               FlatButton(
-                child: const Text("Test 3 e geç"),
+                child: const Text("Testi Sıfırla"),
                 onPressed: () {
                   Navigator.of(context).pop();
 
